@@ -88,4 +88,4 @@ Abaixo, divido a avaliação nas três visões solicitadas, destacando a situaç
 
 [Portfólio:](https://portfolio-jhemerson-oliveira.lovable.app/)
 
-[LinkedIn:](https://www.linkedin.com/in/jhemerson-oliveira/)
+[LinkedIn: Jhemerson Oliveira](https://www.linkedin.com/in/jhemerson-oliveira/)
