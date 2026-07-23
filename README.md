@@ -82,4 +82,10 @@ Abaixo, divido a avaliação nas três visões solicitadas, destacando a situaç
 | :--- | :--- | :--- | :--- |
 | ⚙️ **Operacional** | Queda brusca de volume pós-Julho (~45%) | Ruptura de estoque, gargalos em CD ou perda de grandes canais. | Sincronizar planejamento de *demand forecasting* com o time de S&OP. |
 | 👥 **Clientes** | Clientes "Top Atrasos" (>80% de falha no SLA) | Gargalo recorrente concentrado especificamente nos **Canais 07 e 11**. | Atendimento VIP preventivo (CS) e auditoria imediata nos parceiros de frete desses canais. |
-| 🛒 **Comercial** | Canal Internet com alta taxa de atraso (~27.5%) | Promessa de entrega (Lead Time de vitrine) irrealista no checkout do site. | Ajustar regra de cálculo de prazo de entrega no e-commerce (+1 ou +2 dias). |
+| 🛒 **Comercial** | Canal Internet com alta taxa de atraso (~27.5%) | Promessa de entrega (Lead Time de vitrine) irrealista no checkout do site. | Ajustar regra de cálculo de prazo de entrega no e-commerce (+1 ou +2 dias).
+
+<br>
+
+[Portfólio:](https://portfolio-jhemerson-oliveira.lovable.app/)
+
+[LinkedIn:](https://www.linkedin.com/in/jhemerson-oliveira/)
