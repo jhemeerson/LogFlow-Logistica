@@ -5,6 +5,8 @@ Análise estratégica de entregas, clientes e vendedores.
 
 Abaixo, divido a avaliação nas três visões solicitadas, destacando a situação atual, pontos críticos e insights acionáveis voltados para a tomada de decisão gerencial.
 
+[Relatório Online: Marketing.](https://app.powerbi.com/view?r=eyJrIjoiNjcwNWRhYzItMmY0OC00NDA1LWFmNjctMjA0NjE3NDI4ZGQ4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
 
 ## Visão Entregas (Operations & SLA)
 
